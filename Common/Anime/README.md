@@ -2,4 +2,7 @@ This is the directory for Anime.
 
 List: 
 
-* No anime at this time. 
+* Highschool DxD (BorN~ Season 3) 
+* SAO II 
+* SAO 
+* KonoSuba (Season one) 
